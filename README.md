@@ -3,8 +3,8 @@
 <p align="center"> As a dedicated technology student, I thrive on tackling complex challenges and delving into the intricacies of software development. While I'm currently sharpening my technical prowess, particularly in exploring Ruby on Rails, I'm eager to evolve into a well-rounded professional. My journey involves embracing opportunities to collaborate effectively within teams, contribute meaningfully to projects, and continuously enhance my coding skills. Rooted in agile methodologies, I'm committed to ongoing growth and innovation in the ever-evolving tech landscape. 📚💻</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vitorhugodsouzax&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=vitorhugodsouzax&show_icons=true&theme=radical&layout=compact" />
  </div>
  
 ## My Skills
