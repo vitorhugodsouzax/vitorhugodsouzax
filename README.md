@@ -7,7 +7,7 @@
 <img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=vitorhugodsouzax&show_icons=true&theme=radical&layout=compact" />
  </div>
  
-## My Skills
+## My Skillss
 
 #### Main Stack:
 
