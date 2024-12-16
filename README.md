@@ -1,7 +1,6 @@
 ## 🚀👨‍💻 Tech Enthusiast & Aspiring Software Engineer!
 
-<p align="center"> As a dedicated technology student, I thrive on tackling complex challenges and delving into the intricacies of software development. While I'm currently sharpening my technical prowess, particularly in exploring Ruby on Rails, I'm eager to evolve into a well-rounded professional. My journey involves embracing opportunities to collaborate effectively within teams, contribute meaningfully to projects, and continuously enhance my coding skills. Rooted in agile methodologies, I'm committed to ongoing growth and innovation in the ever-evolving tech landscape. 📚💻.
-• 💼 Currently working at FullStack Developer </p>&nbsp;
+<p align="center"> As a dedicated technology student, I thrive on tackling complex challenges and delving into the intricacies of software development. While I'm currently sharpening my technical prowess, particularly in exploring Ruby on Rails, I'm eager to evolve into a well-rounded professional. My journey involves embracing opportunities to collaborate effectively within teams, contribute meaningfully to projects, and continuously enhance my coding skills. Rooted in agile methodologies, I'm committed to ongoing growth and innovation in the ever-evolving tech landscape. 📚💻• 💼 Currently working at FullStack Developer </p>&nbsp;
 
 
 
